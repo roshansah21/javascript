@@ -1,0 +1,75 @@
+// ************ OPERATION *******************
+
+let value = 60
+let negValue = -value
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2%2);
+
+let str1 = "Hello"
+let str2 = " Roshan"
+
+let str3 = str1 + str2
+//console.log(str3);
+
+
+
+// console.log(1 + "2");
+// console.log("1" + 2);
+// console.log("1" + "2");
+// console.log("1" + 2 + 3);
+// console.log(1 + 2 + "3");  // Watch ECMA guideline
+
+// console.log(+true);
+// console.log(+"");
+
+
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 1 + 4 
+
+let gameCounter = 100
+gameCounter++;
+++gameCounter;   // Prefix and postfix operations
+//console.log(gameCounter);
+
+
+//********************************** COMPARISON OF DATATYEPS IN JS *******************//
+
+// console.log(4 > 1);
+// console.log(4 >= 1);
+// console.log(4 <= 1);
+// console.log(4 == 1);
+// console.log(4 != 1);
+
+console.log("2" > 1); // CASE WITH DIFFERENT DATATYPES
+console.log("04" > 1);
+
+console.log(null > 0);
+console.log(null == 0);
+console.log(null === 0);
+
+console.log(undefined == 0);
+console.log(undefined > 0);
+
+
+// ===       USE 
+
+console.log("2" === 2); // now it is treated as Different dataTypes
+
+
+
+
+
+
+
+
+
+
+
+
